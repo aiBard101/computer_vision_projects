@@ -112,11 +112,11 @@ pygame==2.1.0
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/aiBard101/computer_vision_projects/handwritten_digits_detection.git
+   git clone https://github.com/aiBard101/computer_vision_projects.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd handwritten_digits_detection
+   cd computer_vision_projects/handwritten_digits_detection
    ```
 3. Install the required packages:
    ```sh
